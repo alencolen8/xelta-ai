@@ -16,11 +16,11 @@ For example, a prompt could describe a modern product displayed on a clean studi
 
 Although different AI systems use different technologies, the basic workflow is relatively simple:
 
-1. The user provides a text prompt or reference image.
-2. The AI system analyzes the provided information.
-3. The model generates visual content based on learned patterns.
-4. The resulting image is presented to the user.
-5. The user can refine the prompt and generate another version.
+1. The user provides a text prompt or reference image
+2. The AI system analyzes the provided information
+3. The model generates visual content based on learned patterns
+4. The resulting image is presented to the user
+5. The user can refine the prompt and generate another version
 
 The quality of the result can depend on the clarity of the prompt, the reference material, the model being used, and the level of detail requested.
 
