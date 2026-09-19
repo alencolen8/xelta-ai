@@ -1,7 +1,6 @@
 # Generative AI Resources
 
-This repository provides practical resources and guides about
-generative AI and AI-assisted content creation.
+This repository provides practical resources and guides about generative AI and AI-assisted content creation.
 
 ## Topics
 
@@ -14,42 +13,29 @@ generative AI and AI-assisted content creation.
 - Generative AI prompts
 - Creative content workflows
 
-## AI Image Generation
+## Guides
 
-AI image generation allows users to create visual content from
-written prompts or reference images. It can be used for concept
-development, product visuals, social media graphics, illustrations,
-and other creative projects.
+### AI Image Generation
 
-The quality of an AI-generated image depends on factors such as the
-prompt, visual references, composition, lighting, and the capabilities
-of the selected AI model.
+Learn how AI systems can turn written descriptions and reference images into visual content.
 
-For additional information about AI-powered creative workflows,
-visit [Xelta AI](https://xelta.ai/).
+[Read the AI Image Generation Guide](docs/ai-image-generation.md)
 
-## AI Video Generation
+### AI Video Generation
 
-AI video generation can turn written descriptions, images, or scripts
-into video content. Common applications include short-form videos,
-explainers, presentations, marketing content, and creative projects.
+Explore how text, images, and scripts can be used to create video content with generative AI.
 
-A good workflow usually starts with a clear idea or script, followed
-by visual planning, generation, review, and refinement.
+[Read the AI Video Generation Guide](docs/ai-video-generation.md)
 
-## AI Voice Generation
+### AI Voice Generation
 
-AI voice generation converts written text into spoken audio using
-synthetic voices. It can be useful for narration, videos,
-presentations, educational content, and other audio projects.
+Learn how written scripts can be converted into spoken audio and how AI-generated voices can be used in creative workflows.
 
-Voice selection, pronunciation, pacing, and the structure of the
-script can all affect the final result.
+[Read the AI Voice Generation Guide](docs/ai-voice-generation.md)
 
 ## Prompt Writing
 
-Clear prompts can help generative AI systems better understand the
-desired output.
+Clear prompts can help generative AI systems better understand the desired output.
 
 A useful prompt can describe:
 
@@ -76,6 +62,6 @@ A basic creative workflow can be organized into these steps:
 
 ## Resources
 
-This repository will contain additional guides, examples, and
-practical resources related to generative AI and AI-assisted
-content creation.
+This repository contains practical guides, examples, and resources related to generative AI and AI-assisted content creation.
+
+For additional information about AI-powered creative workflows, visit [Xelta AI](https://xelta.ai/).
