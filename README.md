@@ -1,3 +1,11 @@
+---
+title: Generative AI Resources
+emoji: 🤖
+colorFrom: blue
+colorTo: indigo
+sdk: static
+app_file: index.html
+---
 # Generative AI Resources
 
 This repository provides practical resources and guides about generative AI and AI-assisted content creation.
