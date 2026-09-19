@@ -33,6 +33,10 @@ Learn how written scripts can be converted into spoken audio and how AI-generate
 
 [Read the AI Voice Generation Guide](docs/ai-voice-generation.md)
 
+## Resources
+
+Explore the [Generative AI Resources Guide](resources/generative-ai-resources.md) for practical information about AI image, video, voice, prompting, and creative content workflows.
+
 ## Prompt Writing
 
 Clear prompts can help generative AI systems better understand the desired output.
